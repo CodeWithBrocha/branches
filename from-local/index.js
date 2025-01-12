@@ -2,9 +2,9 @@ const a=()=>{
     alert("our PR")
 }
 const b=()=>{
-    alert("first PR")
+    alert("main PR")
 }
-const b=()=>{
+const bb=()=>{
     alert("num4 PR")
 }
 const c=()=>{
