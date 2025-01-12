@@ -8,5 +8,8 @@ const bb=()=>{
     alert("num4 PR")
 }
 const c=()=>{
-    alert("test 4 PR")
+    let a=13
+}
+const d=()=>{
+    alert("test 5 PR")
 }
