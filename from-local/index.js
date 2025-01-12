@@ -5,7 +5,7 @@ const b=()=>{
     alert("first PR")
 }
 const c=()=>{
-    alert("num4 PR")
+    let a=13
 }
 const d=()=>{
     alert("test 5 PR")
